@@ -1,0 +1,15 @@
+	A	B	C	D	E	F	G	H	I	J	K	L	M	
+A	y	y	y											3
+B				y	y			y				y		4
+C						y			y		y			3
+D	y	y						y		y				4
+E	y				y			y						3
+F						y							y	2
+G	y	y					y							3
+H	y							y				y		3
+I						y			y	y				3
+J								y		y				2
+K		y			y						y	y		4
+L		y					y	y				y		4
+M			y										y	2
+	5	5	2	1	3	3	2	6	2	3	2	4	2	40
