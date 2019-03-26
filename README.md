@@ -6,6 +6,6 @@ Chauhan R, *Ravi J*, Datta P, Chen T, Schnappinger D, Bassler K, Balázsi G, Gen
 
 Nat Commun. 2016 Mar 31;7:11062. doi: 10.1038/ncomms11062.
 
-[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27029515) **|** [Manuscript PDF](https://github.com/jananiravi/sigmafactor-network-mtb/blob/master/manuscript/2016-Chauhan-Sigfac_Mtb-NatComm.pdf) **|** [Supp Material](https://github.com/jananiravi/sigmafactor-network-mtb/blob/master/manuscript/2016-Chauhan-Sigfac_Mtb-NatComm_Supp.pdf)
+[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27029515) **|** [Manuscript PDF](https://github.com/jananiravi/sigmafactor-network-mtb/blob/master/manuscript/2016-Chauhan-Sigfac_Mtb-NatComm.pdf) **|** [Supp Material](https://github.com/jananiravi/sigmafactor-network-mtb/blob/master/manuscript/2016-Chauhan-Sigfac_Mtb-NatComm_Supp.pdf) **|** [Data](https://github.com/jananiravi/sigmafactor-network-mtb/tree/master/data)
 
 Questions or comments? Please contact [me via email](janani@msu.edu).
